@@ -75,6 +75,12 @@ HELIUS_API_KEY=<your_helius_api_key>
 
 To simplify starting the project, you can use a single command after setting up:
 
+#### Windows
+```bash
+set BACKEND_RPC=<your_backend_rpc_url> && set HELIUS_API_KEY=<your_helius_api_key> && bun run index.ts
+```
+
+#### Linux / Mac
 ```bash
 BACKEND_RPC=<your_backend_rpc_url> HELIUS_API_KEY=<your_helius_api_key> bun run index.ts
 ```
