@@ -53,7 +53,7 @@ HELIUS_API_KEY=<your_helius_api_key>
 1. Clone the repository and navigate to the project directory.
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jxhnsebastian/sol-indexer.git
    cd sol-indexer
    ```
 
